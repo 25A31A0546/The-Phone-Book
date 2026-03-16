@@ -68,7 +68,7 @@ After compiling, run the program using:
 
 Example Menu
 
------- PHONE BOOK ------
+----- PHONE BOOK -----
 
 1. Add Contact
 2. Display Contacts
